@@ -1,0 +1,30 @@
+﻿{
+	"weakness": {
+		"stop": 1,
+		"horizon": 2,
+		"vertical": 4,
+		"left_up_in": 5,
+		"left_up_out": 1200,
+		"left_down_in": 500,
+		"left_down_out": 7,
+		"right_up_in": 8,
+		"right_up_out": 30,
+		"right_down_in": 20,
+		"right_down_out": 3
+	},
+	"pred_list": [
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0,
+		0
+	],
+	"score": "100",
+	"Brushing_time": 0
+}
