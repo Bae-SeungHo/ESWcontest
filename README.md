@@ -21,7 +21,8 @@ Brushing Habit Analysis System Based on Deep-Learning
 
 영상을 보시면 이해가 쉬울 것 같습니다. 10MB 파일 제한 때문에 길이를 줄인 점 양해바랍니다.
 
-https://user-images.githubusercontent.com/77887166/152473335-e407851d-7b03-4a99-b600-a044a5ac5f94.mp4
+
+https://user-images.githubusercontent.com/77887166/152473557-c9542744-4f6d-47d0-b5ce-3c952745fadb.mp4
 
 
 감사합니다.
